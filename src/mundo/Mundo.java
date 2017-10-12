@@ -10,7 +10,7 @@ public class Mundo extends JFrame {
     private void initUI() {
 
         add(new Escenario());
-        setSize(1024, 514);
+        setSize(1280, 720);
         setTitle("Ejercicio 0");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
